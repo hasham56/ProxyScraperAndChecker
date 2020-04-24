@@ -1,0 +1,6 @@
+Type: http
+Threads: 799
+MaxTimeout: 1000
+DefaultJudges: true
+CustomJudge: .
+ScrapeProxies: false
